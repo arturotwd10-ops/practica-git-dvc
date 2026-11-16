@@ -1,5 +1,5 @@
 # Modificaciones realizadas en la rama desarrollo
-# Proyecto de practica de control de versiones con Git
+# Calculadora cientifica version desarrollo
 import math
 
 def calculadora():
